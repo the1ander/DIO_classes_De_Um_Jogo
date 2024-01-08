@@ -11,6 +11,8 @@
   <ol>nome: String que representa o nome do herói.</ol>
   <ol>idade: Número que indica a idade do herói.</ol>
   <ol>tipo: String que define o tipo do herói. Os tipos possíveis são:</ol>
+</li>
+<li>
     <ul>Guerreiro</ul>
     <ul>Mago</ul>
     <ul>Monge</ul>
