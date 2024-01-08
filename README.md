@@ -20,13 +20,13 @@
 </li>
 
 <h4>Método</h4>
-<li>
+
   <ul>atacar(): Método que simula o ataque do herói. A ação de ataque varia de acordo com o tipo do herói:</ul>
   <ul>Se o herói for um mago, a mensagem exibida será: "mago atacou usando magia".</ul>
   <ul>Se o herói for um guerreiro, a mensagem exibida será: "guerreiro atacou usando espada".</ul>
   <ul>Se o herói for um monge, a mensagem exibida será: "monge atacou usando artes marciais".</ul>
   <ul>Se o herói for um ninja, a mensagem exibida será: "ninja atacou usando shuriken".</ul>
-</li>
+
 <p>A mensagem é formatada e exibida no console seguindo o padrão: "o {nome} com ${idade} anos de xp, ${skill} para atacar`".</p>
 
 <h3>Exemplo de uso:</h3>
